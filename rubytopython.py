@@ -118,5 +118,5 @@ while True:
 
             if SHAREFEED == "INVU":
 
-                print("Invalid username
+                print("Invalid username") 
 
