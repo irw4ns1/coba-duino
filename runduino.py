@@ -21,9 +21,10 @@ def current_time():
     current_time = time.strftime("%H:%M:%S", t)
     return current_time
 
-username = 'Irw4ns12'
-mining_key = 'None'
-diff_choice = 'Y'
+username = 'Irw4ns12' # replace with yours
+mining_key = 'None'   # if there is, just replace it
+diff_choice = 'Y'     # just leave it
+
 if diff_choice.lower == "n":
     UseLowerDiff = False
 else:
